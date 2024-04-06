@@ -1,9 +1,9 @@
-Tic Tac Toe Game with Scalable Board Size
+**Tic Tac Toe Game with Scalable Board Size**
 
-Description:
+**Description:**
 This Python script implements a Tic Tac Toe game with support for scalable board sizes. Users can specify the size of the game board (e.g., 3 for a standard 3x3 board, 4 for a 4x4 board, etc.) and play against each other. The game includes features such as player marker selection, turn-based gameplay, win detection, statistics tracking (including wins, losses, and draws for each player), and a leaderboard displaying top players based on their win count. Additionally, the code handles invalid inputs gracefully, providing a seamless user experience.
 
-Key Features:
+**Key Features:**
 
 Scalable board size: Users can choose the size of the game board, making it adaptable to different variations of Tic Tac Toe.
 Player marker selection: Players can choose their markers ('X' or 'O') at the beginning of the game.
@@ -20,7 +20,7 @@ Choose your marker ('X' or 'O').
 Play the game by choosing squares to place your marker.
 Enjoy the game and compete for a spot on the leaderboard!
 
-Future Plans:
+**Future Plans:"**
 
 Desktop Application: Develop a graphical user interface (GUI) for the game to provide a more visually appealing and intuitive experience for players.
 AI Integration: Implement artificial intelligence algorithms to create single-player modes where players can compete against computer-controlled opponents of varying difficulty levels.
